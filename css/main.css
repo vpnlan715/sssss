@@ -25,10 +25,8 @@ ul, li {
 	margin-left: -20px;
 }
 
-.logotip {
-	position: absolute;
+.logo {
 	margin-left: 30px;
-	margin-top: 21px;	
 	display: flex;
 	align-items:center;
 }
@@ -77,15 +75,11 @@ ul, li {
 }
 
 h3 {
-	position: absolute;
 	font-size: 18.93px;
 	font-family:'Hind-Semibold';
 	margin-top: 17px;
-	margin-left: 100px;
+	margin-left: 5px;
 }	
-.ppp {	
-	margin-left: 365px;
-}
 
 #menu {
 	margin: 16px 0;
